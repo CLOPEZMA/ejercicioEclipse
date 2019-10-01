@@ -1,5 +1,5 @@
 
 public class hola {
-	
-Hola
+
+System.out.println("Hola que tal");
 }
